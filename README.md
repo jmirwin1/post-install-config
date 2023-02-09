@@ -113,7 +113,7 @@ Under Authentication Settings, make sure the check box with "Require registratio
 </p>
 <br />
 <br />
-<h3 align="center">Configure SLA</h3>
+<h3 align="center">Configure Service Level Agreements</h3>
 <br />
 <p>
   Admin Panel -> Manage -> SLA.
@@ -128,7 +128,9 @@ Under Authentication Settings, make sure the check box with "Require registratio
   Sev-C (8 hours, business hours):
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FBdTBx4.png" alt="Sev-A"/>
+<img src="https://i.imgur.com/BTc0Hiu.png" alt="Sev-B"/>
+<img src="https://i.imgur.com/ComSN68.png" alt="Sev-C"/>  
 </p>
 <br />
 <br />
