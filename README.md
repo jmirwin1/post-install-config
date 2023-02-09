@@ -91,12 +91,12 @@ Under Authentication Settings, make sure the check box with "Require registratio
 <p>
   Create Agent Jane Doe:
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pSYrZEi.png" alt="Jane Doe"/>
 <p>
   Create Agent John Doe:
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n1PRiid.png" alt="John Doe"/>
 </p>
 <h3 align="center">Configure Users (customers)</h3>
 <br />
