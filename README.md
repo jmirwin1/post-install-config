@@ -104,11 +104,12 @@ Under Authentication Settings, make sure the check box with "Require registratio
   Admin Panel -> Users -> Add New.
 </p>
 <p>
-  Lab User Ken:
+ Create and add Lab User Ken:
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NeDHMoE.png" alt="Lab User Ken"/>
 <p>
-  Repeat the same above for Karen User.
+  Repeat the same steps above for Lab User Karen
+<img src="https://i.imgur.com/lMBZirx.png" alt="Lab User Karen"/>
 </p>
 <br />
 <br />
