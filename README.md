@@ -152,11 +152,11 @@ Under Authentication Settings, make sure the check box with "Require registratio
   Password Reset.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MGlkYVw.png" alt="Add Help Topics"/>
   </p>
 <br />
 <br />
 <p>
-now we are done configure osTicket
+Now we are done configuring osTicket. Next, we will create and solve a ticket example.
 </p>
 <p>
