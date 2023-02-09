@@ -76,24 +76,24 @@ This tutorial outlines the post-install configuration of the open-source help de
   Admin Panel -> Settings -> User Settings.
 </p>
 <p>
-  Make sure "Require registration and login to create tickets" is not selected:
+Under Authentication Settings, make sure the check box with "Require registration and login to create tickets" is not selected
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NEUSclh.png" alt="User Settings"/>
 </p>
 <br />
 <br />
 <h3 align="center">Configure Agents (workers)</h3>
 <br />
 <p>
-  Admin Panel -> Agents -> Add New.
+  Admin Panel -> Agents -> Add New
 </p>
 <p>
-  Jane Doe:
+  Create Agent Jane Doe:
 </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-  John Doe:
+  Create Agent John Doe:
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
