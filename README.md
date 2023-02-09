@@ -52,6 +52,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 <img src="https://i.imgur.com/Lpps6i7.png" alt="System Administrators"/>
+<img src="https://i.imgur.com/pfPRaRw.png" alt="New Department"/>
 </p>
 <br />
 <br />
