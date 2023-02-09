@@ -38,23 +38,118 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
-
+<br />
+<h3 align="center">Configure Departments</h3>
+<br />
+<p>
+  Admin Panel -> Agents -> Departments.
+</p>
+<p>
+  System Administrators:
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
-
+<br />
+<h3 align="center">Configure Teams</h3>
+<br />
+<p>
+  Admin Panel -> Agents -> Teams.
+</p>
+<p>
+  Level II Support:
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+<br />
+<h3 align="center">Allow anyone to create ticket</h3>
+<br />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Admin Panel -> Settings -> User Settings.
+</p>
+<p>
+  Make sure "Require registration and login to create tickets" is not selected:
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+<br />
+<h3 align="center">Configure Agents (workers)</h3>
+<br />
+<p>
+  Admin Panel -> Agents -> Add New.
+</p>
+<p>
+  Jane Doe:
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+  John Doe:
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<h3 align="center">Configure Users (customers)</h3>
+<br />
+<p>
+  Admin Panel -> Users -> Add New.
+</p>
+<p>
+  Lab User Ken:
+</p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+  Repeat the same above for Karen User.
+</p>
+<br />
+<br />
+<h3 align="center">Configure SLA</h3>
+<br />
+<p>
+  Admin Panel -> Manage -> SLA.
+</p>
+<p>
+  Sev-A (1 hour, 24/7).
+</p>
+<p>
+  Sev-B (4 hours, 24/7).
+</p>
+<p>
+  Sev-C (8 hours, business hours):
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<br />
+<h3 align="center">Configure Help Topics</h3>
+<br />
+<p>
+  Admin Panel -> Manage -> Help Topics.
+</p>
+<p>
+  Business Critical Outage.
+</p>
+<p>
+  Personal Computer Issues.
+</p>
+<p>
+  Equipment Request.
+</p>
+<p>
+  Password Reset.
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  </p>
+<br />
+<br />
+<p>
+now we are done configure osTicket
+</p>
+<p>
