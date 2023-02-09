@@ -37,6 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 <img src="https://i.imgur.com/gcWYV4C.png" alt="Supreme Admin"/>
+<img src="https://i.imgur.com/vqm74tD.png" alt="set Permissions"/>
 </p>
 <br />
 <br />
