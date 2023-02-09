@@ -65,7 +65,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   Level II Support:
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sKUjiMa.png" alt="Level II Support"/>
+<img src="https://i.imgur.com/q6w5s1A.png" alt="New Team"/>  
 </p>
 <br />
 <br />
